@@ -1,2 +1,2 @@
 
-https://wa-aakira/pegsolitaire-jall
+https://wa-aakira.github.io/pegsolitaire-jall
