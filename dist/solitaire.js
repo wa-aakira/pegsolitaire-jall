@@ -983,6 +983,19 @@ let patterns = [
       [null, null, 0, 0, 0, null, null],
     ],
   },
+ {
+    name: "English  7-21",
+    diagonal_allowed: false,
+    cells: [
+      [null, null, 0, 0, 0, null, null],
+      [null, null, 0, 1, 0, null, null],
+      [0, 0, 1, 0, 1, 0, 0],
+      [0, 1, 1, 0, 1, 1, 0],
+      [0, 0, 0, 0, 0, 0, 0],
+      [null, null, 0, 0, 0, null, null],
+      [null, null, 0, 0, 0, null, null],
+    ],
+  }, 
   {
     name: "English  8-1　★",
     diagonal_allowed: false,
