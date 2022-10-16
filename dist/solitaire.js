@@ -4304,7 +4304,6 @@ let patterns = [
       [null, null, 1, 1, 1, null, null],
     ],
   },
-  
   {
     name: "English 32",
     diagonal_allowed: false,
